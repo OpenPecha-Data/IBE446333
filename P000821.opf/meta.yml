@@ -1,7 +1,151 @@
-id: opecha:P000821
+id: P000821
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W21807
   title: གསུང་འབུམ། མཁྱེན་བརྩེའི་དབང་པོ།
-  volumes: {}
   author: ''
+  volumes:
+    c15cbcb3706946cdbf8a025472097bd3:
+      image_group_id: I0506
+      title: ''
+      volume_number: 1
+      total_pages: 498
+      base_file: v001.txt
+    8b709b9ff0d94fddb48d1fd8f25f8316:
+      image_group_id: I0507
+      title: ''
+      volume_number: 2
+      total_pages: 492
+      base_file: v002.txt
+    4e8fa1fd112645088d4c8bbecf36dbe5:
+      image_group_id: I0508
+      title: ''
+      volume_number: 3
+      total_pages: 738
+      base_file: v003.txt
+    ad10af4183bd4a2997e6a226cd49d3b0:
+      image_group_id: I0509
+      title: ''
+      volume_number: 4
+      total_pages: 716
+      base_file: v004.txt
+    ec9687ce27704eafa366a6c77bbf0221:
+      image_group_id: I0510
+      title: ''
+      volume_number: 5
+      total_pages: 614
+      base_file: v005.txt
+    f210092075384a86a082f715c23de942:
+      image_group_id: I0511
+      title: ''
+      volume_number: 6
+      total_pages: 528
+      base_file: v006.txt
+    455f391c87b946d49b1cd2850bc28f92:
+      image_group_id: I0512
+      title: ''
+      volume_number: 7
+      total_pages: 550
+      base_file: v007.txt
+    16b2cdae8d5243558edc4580eb5b4102:
+      image_group_id: I0513
+      title: ''
+      volume_number: 8
+      total_pages: 528
+      base_file: v008.txt
+    58eb6d1458b44e7da5a8b6326e5c66d8:
+      image_group_id: I0514
+      title: ''
+      volume_number: 9
+      total_pages: 464
+      base_file: v009.txt
+    ca5fa2c0469d4190a3b3a95cebeabe30:
+      image_group_id: I0515
+      title: ''
+      volume_number: 10
+      total_pages: 546
+      base_file: v010.txt
+    bace387b7441496a9652762349da8206:
+      image_group_id: I0516
+      title: ''
+      volume_number: 11
+      total_pages: 542
+      base_file: v011.txt
+    4eef0212a7c1430b971c4c4699040202:
+      image_group_id: I0517
+      title: ''
+      volume_number: 12
+      total_pages: 544
+      base_file: v012.txt
+    ab57f1e701d34458bf4421874237266e:
+      image_group_id: I0518
+      title: ''
+      volume_number: 13
+      total_pages: 600
+      base_file: v013.txt
+    4a702860cb334dd593c38564676a03dd:
+      image_group_id: I0519
+      title: ''
+      volume_number: 14
+      total_pages: 614
+      base_file: v014.txt
+    02e8724b20a144e1b0a93e26736585c1:
+      image_group_id: I0520
+      title: ''
+      volume_number: 15
+      total_pages: 578
+      base_file: v015.txt
+    117e774596f8458ab5e7d46941be30b4:
+      image_group_id: I0521
+      title: ''
+      volume_number: 16
+      total_pages: 576
+      base_file: v016.txt
+    2889d64ef94b4ff3b97a8a13d802cbd3:
+      image_group_id: I0522
+      title: ''
+      volume_number: 17
+      total_pages: 538
+      base_file: v017.txt
+    0f2a0f276a41401dae61000ae6ed5a2f:
+      image_group_id: I0523
+      title: ''
+      volume_number: 18
+      total_pages: 524
+      base_file: v018.txt
+    3b14e1900b6e460c8a36f0722493ec66:
+      image_group_id: I0524
+      title: ''
+      volume_number: 19
+      total_pages: 536
+      base_file: v019.txt
+    fd200eebd97e40129560ee3e4f6a70cb:
+      image_group_id: I0525
+      title: ''
+      volume_number: 20
+      total_pages: 556
+      base_file: v020.txt
+    e8b0d8d38a03467980eab70bdcb78c8e:
+      image_group_id: I0526
+      title: ''
+      volume_number: 21
+      total_pages: 564
+      base_file: v021.txt
+    7cc7b8aae2a14faa8c2b18f5e4682f6c:
+      image_group_id: I0527
+      title: ''
+      volume_number: 22
+      total_pages: 624
+      base_file: v022.txt
+    6d7e064d64d1462db9fc2371cc620378:
+      image_group_id: I0528
+      title: ''
+      volume_number: 23
+      total_pages: 466
+      base_file: v023.txt
+    2e3f4c6a3183421980c515b9758a0020:
+      image_group_id: I0529
+      title: ''
+      volume_number: 24
+      total_pages: 396
+      base_file: v024.txt
